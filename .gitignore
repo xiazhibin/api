@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+/.cache
+/log
+/instance
+/.idea
+test.py
+*.fbx
+/files
+
+.DS_Store
+
+.python-versionsss
