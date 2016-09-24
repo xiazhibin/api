@@ -7,7 +7,9 @@
 test.py
 *.fbx
 /files
+*.log
+*.ini
 
 .DS_Store
 
-.python-versionsss
+.python-version
