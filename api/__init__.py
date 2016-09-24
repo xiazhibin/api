@@ -10,3 +10,7 @@ app.register_blueprint(weather_bp)
 @app.route('/')
 def index():
     return 'fuxk'
+
+
+if __name__ == '__main__':
+    app.run()
